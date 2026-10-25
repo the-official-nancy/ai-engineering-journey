@@ -13,7 +13,7 @@ So: more data → better results → that's learning.
 
 **For Example:**
 
-![image.png](attachment:image.png)
+![alt text](image.png)
 
 More Real life examples you see every day:
 
